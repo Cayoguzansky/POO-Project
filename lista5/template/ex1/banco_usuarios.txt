@@ -1,0 +1,2 @@
+João,joao@email.com,comum
+Maria,maria@email.com,admin,admin
